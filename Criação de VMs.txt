@@ -1,0 +1,3 @@
+É possível criar diversas configurações de VMs, o procedimento em si é simples, mas é necessário cuidado redobrado e também bastante conhecimento sobre o que será utilizado pela demanda para configurar algo que ideal para a atividade, porém com o menor custo possível.
+Também é interessante entender a quantidade de tempo que será utilizada, isto é necessário porque há dois modelos de utilização: pays as you go e reserva.
+O primeiro é sobre pagar pelo o que utilizar, que significa não informar uma expectativa de quanto tempo será utilizado, isto faz que o preço seja mais elevado que a segunda opção, a reserva, porque ao informar uma expectativa, a Microsoft, entende o quanto será utilizado e assim cobrar um valor menor.
