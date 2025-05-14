@@ -1,0 +1,17 @@
+Na nuvem existe o Microsoft Entra ID qque é o responsável pelo gerenciamento dos
+usuários. Basicamente ele tem os principais recursos de sistema de gerenciamento como
+por exemplo criar um usuário, gerenciar as permissões dele, entre outras coisas.
+
+É importante frisar:
+
+Quando há servidores on premise é necessário criar os usuários localmente e sincronizar com a nuvem, nunca o oposto.
+Permissões relacionadas a recursos e e configurações do Azure são caterigorizadas como RBac (controle de acesso baseado em Função).
+Roles são permissões em relação a outras contas, por exemplo, reetar a senha de outra conta.
+Entra connect é quem sincroniza os usuários entre on premise e cloud.
+Custom domain name é onde será cadastrado o domínio da empresa e das contas do usuário.
+
+Sobre segurança
+
+Acess control IA é onde são dados os permissionamento relacionados a Rbacs (acessos a grupos de recursos ou em inglês resource groups)
+Microsoft Defender for cloud atua principalmente para gerenciar toda a parte de segurança do Azure e também verificação de virus e brechas além de 
+recomendações de itens de segurança em nosso ambiente cloud.

@@ -1,0 +1,22 @@
+São mais de 60 regiões de atuação em todo o mundo, inclusive há no Brasil e América Latina.
+
+Sempre avaliar as questões de LGPD ao criar sua infraestrutura no Azure. Imagine que você tenha dados sensíveis em seu banco de dados
+que pela LGPD não podem ser hospedados em outros países. Por este motivo, toda a infraestrutura deverá ser hospedada no país de origem.
+
+Existem as equipes governança, riscos e compliance que devem monitorar e ajudar a evitar estes possíveis riscos.
+É impressionante o quanto é rigoroso os locais onde ficam armazenados os servidores físicos do Azure, demonstrando assim um grande zelo 
+pela segurança física dos equipamentos assim como grande organização e limpeza do ambiente.
+
+Foi demonstrado como criar um 'Resource Group" onde é um grupo onde é possível adicionar itens para facilitação da administração do mesmo.
+No momento da criação é importante estudar em qual região será criado este grupo. Isto é essencial para evitar custos maiores e 
+futuros problemas com questões de LGPD, latência de tráfego, etc.
+
+Ao criar é importante gerenciar pelo IAM(controle de acesso) quem deverá ter acesso a este grupo. Lembre-se de sempre dar o menor acesso 
+possível.
+
+No grupo de recursos é possível ver os logs das operações realizadas.
+
+
+
+
+

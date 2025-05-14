@@ -1,0 +1,3 @@
+Um bom analista deve entender as necessidades do cliente e alinhar os benefícios aos custos. Para isso, existe um recurso oficial para simular os custos de um projeto.
+
+Este recurso é chamado de Calculadora de TCO. O custo em si envolve diversos fatores, como a zona onde o recurso foi criado, questões de redundância (local e por zonas), o tipo de máquina virtual ou outros recursos utilizados, o tempo de disponibilidade e a utilização, entre outros.
